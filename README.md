@@ -10,7 +10,7 @@
 
 ### 🧠 Who am I?
 
-- 🎓 2nd-year CSE student figuring out life with **code, music, and caffeine**  
+- 🎓 3rd-year CSE student figuring out life with **code, music, and caffeine**  
 - 🌴 Born in **Kerala**, living on a mix of chai, chaos & deadlines  
 - ⚡ I love taking random ideas and turning them into **actual working things** for college, fests, and people around me  
 - 🧩 Half developer, half event-organiser, half musician (yes, that’s three halves, I know 😌)

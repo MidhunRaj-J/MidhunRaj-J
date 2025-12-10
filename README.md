@@ -9,13 +9,13 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
+  <a href="https://linkedin.com/in/midhunrajj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:jmidhunraj100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/[YOUR_INSTA_HANDLE]">
+  <a href="https://instagram.com/midhunraj_j">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -59,8 +59,8 @@ I'm a **3rd-year CSE undergrad** from **Kerala**, figuring out life with code, m
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0D1117" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MidhunRaj-J&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MidhunRaj-J&theme=radical&hide_border=true&background=0D1117" height="170" alt="streak graph"  />
 </div>
 
 ---

@@ -1,99 +1,118 @@
-<!-- Profile README -->
-
-<h1 align="center">Hey, I'm Midhun 👋</h1>
+<!-- Profile README for GitHub -->
 
 <p align="center">
-  <b>CSE undergrad • Builder of random-but-useful things • Music + Code enjoyer</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Developer Animation" width="70%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=820&lines=Hey+there!+I%27m+Midhunraj+J;Dev+%2B+Musician+%2B+Builder" alt="Typing Intro" />
+</h1>
+
+<p align="center">
+  <strong>2nd-year CSE • Full-stack tinkerer • AI/ML curious • Lo-fi music maker</strong><br/>
+  <small>Born in Kerala • Coffee-fuelled late-night debugging & melodies</small>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/<YOUR-LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/<GITHUB_USERNAME>"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/<YOUR-INSTA>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
 </p>
 
 ---
 
-### 🧠 Who am I?
-
-- 🎓 3rd-year CSE student figuring out life with **code, music, and caffeine**  
-- 🌴 Born in **Kerala**, living on a mix of chai, chaos & deadlines  
-- ⚡ I love taking random ideas and turning them into **actual working things** for college, fests, and people around me  
-- 🧩 Half developer, half event-organiser, half musician (yes, that’s three halves, I know 😌)
+## 🔧 What I do (short)
+- I build web apps, quirky tools, and music projects — then decide which of them actually deserve my sleep.  
+- Currently building: **NexusFleet** (peer-to-peer delivery), **NeuroBridge** (health chatbot), and a few lo-fi songs.  
+- Research work: hybrid renewable systems, HOMER simulations, and exploring V2G ideas.
 
 ---
 
-### 🚀 What I’m into right now
+## 🛠 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,cpp,html,css,git,github,flask,tf,pytorch,android,postgres&theme=dark" alt="Tech Icons"/>
+</p>
 
-- 🧑‍💻 **Full-stack dev** – mostly **MERN**, a bit of “let’s Google this real quick”
-- 🤖 **AI / ML** – chatbots, emotion-based systems, and anything that makes tech feel more “human”
-- 🔌 **Energy & sustainability** – working on research around **hybrid renewable systems** and campus power optimization  
-- 🎧 **Music production** – making **lo-fi vibes**, covers, and experimenting on **FL Studio**
-
----
-
-### 🔭 Things I’ve built / am building
-
-- 🚚 **NexusFleet** – a peer-to-peer delivery platform connecting travellers with people who need stuff delivered  
-  _Quick, affordable, community-driven deliveries. Startup brain activated._  
-
-- 🧠 **NeuroBridge** – a health-based chatbot to help people with speech/cognitive difficulties  
-  _Turns broken inputs into clear, expressive sentences using LLMs (Groq + LLaMA)._
-
-- 🎵 **Emotion-based Music Recommender**  
-  _Frontend dev with HTML, CSS, Bootstrap – recommends songs based on mood._
-
-- 📅 **Timetable OCR App**  
-  _Android app (first version using server-based OCR) to read timetable images and turn them into usable schedules._
-
-- ⚡ **Hybrid Renewable Energy & V2G Research**  
-  _Optimizing campus power usage with HOMER Grid / Pro, simulating grids & exploring Vehicle-to-Grid ideas._
-
-- ✈️ **VTOL Drone Project Report**  
-  _Diving into the tech and design aspects of VTOL drones._
-
-- 🛰️ **Morse Mystique Event Website & Flow**  
-  _Two-level Morse code puzzle event with sounds, links, hashcodes, and a lot of “wait, what just happened?” moments._
+**Main:** JavaScript (MERN), Python, Java, C++  
+**Web / Backend:** React, Node, Express, MongoDB, PostgreSQL, Flask  
+**ML / Research:** TensorFlow, PyTorch, HOMER Grid/Pro  
+**Other:** Android/Java, Git, FL Studio (music), Linux, Docker
 
 ---
 
-### 🛠 Tech Toolbox
+## 🌟 Highlights — Projects I actually shipped
+### NexusFleet — *peer-to-peer delivery platform*
+- Built a community-driven delivery flow: travelers deliver goods along their route, customers get faster & cheaper delivery.  
+- Focus: secure payments, order tracking, referral & rewards system.
 
-**Languages**
-- C, C++, Java, Python, JavaScript, HTML, CSS
+### NeuroBridge — *health chatbot for expressive communication*
+- Takes broken or minimal speech inputs and converts them into clearer, empathetic text using LLMs and rephrasing rules.  
+- Frontend: responsive UI; planned TTS + mood graph.
 
-**Web & App**
-- MERN (learning & building), Bootstrap, basic Android (Java/Kotlin side of life)
+### Emotion-based Music Recommender
+- Frontend + prototype that suggests tracks based on detected mood / user input. Good for my lo-fi playlists.
 
-**Tools**
-- Git & GitHub  
-- FL Studio 🎹  
-- HOMER Grid / HOMER Pro  
-- VS Code, Android Studio
+### Timetable OCR (Android)
+- Server-based OCR prototype that converts photos of timetables into structured schedules.
 
----
-
-### 🎤 The non-coding side
-
-- 🎶 I make **lo-fi melodies** and vocal covers (sometimes overthink, sometimes just hit record and vibe)
-- 🎤 Performed at **Raj Bhavan** (twice!) – still surreal to think about it
-- 🎪 I enjoy **organising events & hackathons** as much as building products for them  
-- ☕ I say “I’ll sleep early tonight” and then end up debugging or arranging chords at 2 AM
+### VTOL Drone Report & Campus Energy Research
+- VTOL technical analysis and a HOMER-driven study of campus electricity + V2G possibilities.
 
 ---
 
-### 🌱 Currently learning
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <!-- Replace GITHUB_USERNAME with your username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<GITHUB_USERNAME>&theme=radical" height="160" alt="Streak" />
+</p>
 
-- Making my **MERN** projects cleaner & more “production-ish”
-- Better **mixing & mastering** for my music so it sounds good outside my headphones
-- Writing **non-boring technical content** for reports, research papers, and slides
-- How to say “no” to new ideas when I already have 5 half-finished ones 🙃
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<GITHUB_USERNAME>&theme=tokyo-night&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
-### 📫 Let’s connect
+## 💻 Competitive & practice
+<p align="center">
+  <a href="https://leetcode.com/<YOUR_LEETCODE>">
+    <img src="https://leetcard.jacoblin.cool/<YOUR_LEETCODE>?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" alt="LeetCode card" />
+  </a>
+</p>
+<sub>Currently doing a practice streak — consistency > heroics.</sub>
 
-- 🧑‍💻 GitHub: [@your-github-username](https://github.com/your-github-username)
-- 💼 LinkedIn: [your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle)
-- 📷 Instagram (probably music / life stuff): [@your-insta-handle](https://www.instagram.com/your-insta-handle)
-- ✉️ Mail: `yourmail@example.com`
+---
+
+## 🎧 Now playing & creative corner
+- I make lo-fi vocal covers and beats (FL Studio).  
+- When I’m stuck debugging, I produce a 30-second melody to reset my brain.  
+- Favorite cover in progress: *Sundari Kannal Oru Sethi* (lo-fi karaoke version).
+
+---
+
+## 🌱 Currently learning
+- Production-ready MERN deployments, CI/CD, and proper tests.  
+- Mixing & mastering techniques so my tracks stop sounding like headphone demos.  
+- Better research paper writing & reproducible experiments.
+
+---
+
+## 📬 Want to collab / reach out?
+- GitHub: `https://github.com/<GITHUB_USERNAME>`  
+- LinkedIn: `https://www.linkedin.com/in/<YOUR-LINKEDIN>`  
+- Mail: `yourmail@example.com`  
+- Prefer Malayalam? Yep — I can chat in Malayalam too 🇮🇳
+
+---
+
+## ✨ Fun facts
+- Performed at **Raj Bhavan** (twice) — still surreal.  
+- I often end up with *five half-finished ideas* and then regret committing to only sleeping 3 hours.  
+- I love organising events & hackathons as much as building the things they showcase.
 
 ---
 
 <p align="center">
-  <i>Building things that make life a little easier, and a little more aesthetic – one commit, one chord at a time.</i>
+  <i>Building products, shaping soundscapes, and stealing a few hours of sleep for both. — Midhunraj</i>
 </p>

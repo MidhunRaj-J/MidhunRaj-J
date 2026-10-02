@@ -24,7 +24,7 @@
 
 ### 🌴 About Me
 
-I'm a **3rd-year CSE undergrad** from **Kerala**, figuring out life with code, music, and a lot of caffeine. I love taking random ideas and turning them into actual working things for college, fests, and the community.
+I'm a **final year CSE undergrad** from **Kerala**, figuring out life with code, music, and a lot of caffeine. I love taking random ideas and turning them into actual working things for college, fests, and the community.
 
 * 🧩 **The Equation:** ½ Developer + ½ Event Organiser + ½ Musician = Me. (Yes, the math works if you don't overthink it).
 * 🚀 **Current Vibe:** Making MERN projects "production-ready" and researching Hybrid Renewable Energy.
